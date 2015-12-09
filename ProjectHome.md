@@ -1,0 +1,1 @@
+Hibernate Second Level Cache provider for Redis. Right now it leverages the JRedis API, which is Java API for Redis as integration API for Redis Server till Redis comes with a HTTP based communication support.
